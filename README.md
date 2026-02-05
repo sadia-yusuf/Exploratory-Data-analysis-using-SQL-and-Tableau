@@ -1,3 +1,15 @@
+
+<img width="1066" height="611" alt="image" src="https://github.com/user-attachments/assets/00f80406-dddf-41db-a0e0-064dda704d3c" />
+
+
+
+
+
+
+
+
+
+
 Exploratory-Data-analysis-using-SQL-and-Tableau
 
 
